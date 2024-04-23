@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T12:10:01.143Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="-p5L-YIOVbR3bR79fTtr" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T12:14:39.910Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="grXdydROQNvdPY0VnMhw" version="22.1.16" type="github">
   <diagram name="第 1 页" id="tc64m-DP_SOpegKEheK2">
     <mxGraphModel dx="1434" dy="671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="400000" math="0" shadow="0">
       <root>
@@ -10,22 +10,22 @@
         <mxCell id="5TabDy5KiHjK8BMG1oBV-38" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="440" y="460" width="940" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5TabDy5KiHjK8BMG1oBV-1" value="be&lt;br&gt;tag=zonea" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-1" value="be&lt;br&gt;tag=group_a" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="370" y="590" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5TabDy5KiHjK8BMG1oBV-2" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=zonea" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-2" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=group_a" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="590" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5TabDy5KiHjK8BMG1oBV-3" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=zonea" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-3" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=group_a" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="590" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5TabDy5KiHjK8BMG1oBV-4" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=zonea" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-4" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=group_a" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="700" y="590" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5TabDy5KiHjK8BMG1oBV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="5TabDy5KiHjK8BMG1oBV-5" target="5TabDy5KiHjK8BMG1oBV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5TabDy5KiHjK8BMG1oBV-5" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=zonea" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-5" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=group_a" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="810" y="590" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5TabDy5KiHjK8BMG1oBV-7" value="fe" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -49,25 +49,25 @@
         <mxCell id="5TabDy5KiHjK8BMG1oBV-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="914" y="668" as="sourcePoint" />
-            <mxPoint x="920" y="20" as="targetPoint" />
+            <mxPoint x="918" y="203" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5TabDy5KiHjK8BMG1oBV-26" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=zoneb" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-26" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=group_b" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="950" y="590" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5TabDy5KiHjK8BMG1oBV-27" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=zoneb" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-27" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=group_b" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1060" y="590" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5TabDy5KiHjK8BMG1oBV-28" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=zoneb" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-28" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=group_b" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1170" y="590" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5TabDy5KiHjK8BMG1oBV-29" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=zoneb" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-29" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=group_b" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1280" y="590" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5TabDy5KiHjK8BMG1oBV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="5TabDy5KiHjK8BMG1oBV-31" target="5TabDy5KiHjK8BMG1oBV-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5TabDy5KiHjK8BMG1oBV-31" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=zoneb" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-31" value="be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;tag=group_b" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1390" y="590" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5TabDy5KiHjK8BMG1oBV-32" value="fe" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -102,8 +102,14 @@
         <mxCell id="5TabDy5KiHjK8BMG1oBV-42" value="zoneB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1008" y="347" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5TabDy5KiHjK8BMG1oBV-45" target="5TabDy5KiHjK8BMG1oBV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5TabDy5KiHjK8BMG1oBV-45" value="UASERA&lt;br&gt;resource groupA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="527" y="347" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5TabDy5KiHjK8BMG1oBV-46" target="5TabDy5KiHjK8BMG1oBV-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5TabDy5KiHjK8BMG1oBV-46" value="UASERA&lt;br&gt;resource groupB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1103" y="347" width="200" height="30" as="geometry" />
@@ -113,6 +119,21 @@
         </mxCell>
         <mxCell id="5TabDy5KiHjK8BMG1oBV-47" value="write client" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="400" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5TabDy5KiHjK8BMG1oBV-49" target="5TabDy5KiHjK8BMG1oBV-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-49" value="UASERA&lt;br&gt;resource groupA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="349" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-53" value="set property for &#39;USERA&#39; &#39;resource_tags.location&#39; = &#39;group_a&#39;;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="738" y="693" width="365" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-54" value="set property for &#39;USERB&#39; &#39;resource_tags.location&#39; = &#39;group_b&#39;;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="738" y="723" width="365" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5TabDy5KiHjK8BMG1oBV-55" value="CREATE TABLE tb_name (...) properties(&quot;replication_allocation&quot;=&quot;tag.location.group_a:3, tag.location.group_b:3&quot;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542" y="755" width="761" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
