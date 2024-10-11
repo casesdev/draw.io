@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="2074" dy="1132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1000" pageHeight="700" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1098" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1000" pageHeight="700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,25 +14,25 @@
           <mxGeometry x="52.5" y="139.5" width="1747.5" height="10" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1183.5" y="200" width="610" height="360" as="geometry" />
+          <mxGeometry x="1143" y="200" width="610" height="360" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-4" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1201.5" y="212" width="40" height="38" as="geometry" />
+          <mxGeometry x="1161" y="212" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-5" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="334" width="40" height="38" as="geometry" />
+          <mxGeometry x="1159.5" y="334" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-6" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="454" width="40" height="38" as="geometry" />
+          <mxGeometry x="1159.5" y="454" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-13" value="&lt;div style=&quot;color: rgb(51, 51, 51); background-color: rgb(245, 245, 245); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;元数据库Postgres的高可用由Patroni组件进行协调，&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;Patroni使用 zookeeper 进行数据存储。&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;其中Pod10部署2个节点，并使用VIP，Pod6部署1个节点。&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;每天凌晨通过Pod6节点进行全量备份&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1253" y="211.5" width="449" height="118" as="geometry" />
+          <mxGeometry x="1212.5" y="211.5" width="449" height="118" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-14" value="&lt;div style=&quot;color: rgb(51, 51, 51); background-color: rgb(245, 245, 245); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;Ambari Server高可用通过在Pod10部署两个Server节点(1节点存活1个节点不启用),&lt;/div&gt;&lt;div&gt;并使用检测脚本定时检测,如果发现存活节点状态不正常,则尝试重启,&lt;/div&gt;&lt;div&gt;如果连续3次重启失败,则启动节点2,同时VIP漂移至节点2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1252" y="334.5" width="450" height="115" as="geometry" />
+          <mxGeometry x="1211.5" y="334.5" width="450" height="115" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-15" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; background-color: rgb(245, 245, 245);&quot;&gt;大数据集群中所有节点的Ambari Agent通过连接Ambari Server的VIP，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; background-color: rgb(245, 245, 245);&quot;&gt;从而达到随Server的VIP切换&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; background-color: rgb(245, 245, 245);&quot;&gt;自动将控制、监测、上报相关数据发送到Ambari Server&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1252" y="452.5" width="450" height="117" as="geometry" />
+          <mxGeometry x="1211.5" y="452.5" width="450" height="117" as="geometry" />
         </mxCell>
         <mxCell id="lqz7KBMtg_kvbwlIEaO4-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_postgresql_instance;" parent="1" vertex="1">
           <mxGeometry x="167" y="440" width="78" height="78" as="geometry" />
@@ -230,6 +230,45 @@
           <mxGeometry x="-0.1994" y="-67" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="u_LP7-zEjxGqLWyVpluC-1" value="POD10" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#5599ec;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="629" width="717" height="525" as="geometry" />
+        </mxCell>
+        <mxCell id="u_LP7-zEjxGqLWyVpluC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="u_LP7-zEjxGqLWyVpluC-1" source="u_LP7-zEjxGqLWyVpluC-3" target="u_LP7-zEjxGqLWyVpluC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_LP7-zEjxGqLWyVpluC-10" value="同步数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u_LP7-zEjxGqLWyVpluC-7">
+          <mxGeometry x="0.3073" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u_LP7-zEjxGqLWyVpluC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="u_LP7-zEjxGqLWyVpluC-1" source="u_LP7-zEjxGqLWyVpluC-3" target="u_LP7-zEjxGqLWyVpluC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_LP7-zEjxGqLWyVpluC-9" value="同步数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u_LP7-zEjxGqLWyVpluC-8">
+          <mxGeometry x="-0.1895" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u_LP7-zEjxGqLWyVpluC-3" value="krb5kdc.service01" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cognito;" vertex="1" parent="u_LP7-zEjxGqLWyVpluC-1">
+          <mxGeometry x="150" y="162" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u_LP7-zEjxGqLWyVpluC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="u_LP7-zEjxGqLWyVpluC-1" source="u_LP7-zEjxGqLWyVpluC-4" target="u_LP7-zEjxGqLWyVpluC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_LP7-zEjxGqLWyVpluC-12" value="写操作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u_LP7-zEjxGqLWyVpluC-11">
+          <mxGeometry x="0.0542" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u_LP7-zEjxGqLWyVpluC-4" value="kadmin.service" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="u_LP7-zEjxGqLWyVpluC-1">
+          <mxGeometry x="155" y="23" width="50" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="u_LP7-zEjxGqLWyVpluC-6" value="krb5kdc.service02" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cognito;" vertex="1" parent="u_LP7-zEjxGqLWyVpluC-1">
+          <mxGeometry x="45" y="274" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u_LP7-zEjxGqLWyVpluC-5" value="krb5kdc.service03" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cognito;" vertex="1" parent="u_LP7-zEjxGqLWyVpluC-1">
+          <mxGeometry x="150" y="382" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
