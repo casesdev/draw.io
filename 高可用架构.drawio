@@ -232,7 +232,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u_LP7-zEjxGqLWyVpluC-1" value="POD10" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#5599ec;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="629" width="717" height="525" as="geometry" />
+          <mxGeometry x="1130" y="629" width="360" height="525" as="geometry" />
         </mxCell>
         <mxCell id="u_LP7-zEjxGqLWyVpluC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="u_LP7-zEjxGqLWyVpluC-1" source="u_LP7-zEjxGqLWyVpluC-3" target="u_LP7-zEjxGqLWyVpluC-6">
           <mxGeometry relative="1" as="geometry" />
