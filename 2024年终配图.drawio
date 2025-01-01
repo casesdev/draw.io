@@ -96,6 +96,12 @@
             <mxPoint x="790" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tkhK0zvHvj8kYuO251bK-55" value="&lt;b&gt;POD06 BE x 5&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1060" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tkhK0zvHvj8kYuO251bK-56" value="&lt;b&gt;POD10 BE x 5&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1060" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
