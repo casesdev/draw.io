@@ -147,13 +147,13 @@
         <mxCell id="tkhK0zvHvj8kYuO251bK-70" value="&lt;b&gt;Frontend&lt;/b&gt;&lt;div&gt;(Follower, Java)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="923" y="1590" width="170" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="tkhK0zvHvj8kYuO251bK-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;curved=0;" edge="1" parent="1" source="tkhK0zvHvj8kYuO251bK-72" target="tkhK0zvHvj8kYuO251bK-81">
+        <mxCell id="tkhK0zvHvj8kYuO251bK-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;curved=0;strokeColor=light-dark(#f2931d, #ededed);strokeWidth=3;" edge="1" parent="1" source="tkhK0zvHvj8kYuO251bK-72" target="tkhK0zvHvj8kYuO251bK-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tkhK0zvHvj8kYuO251bK-72" value="&lt;b&gt;Backend&lt;/b&gt;&lt;br&gt;(C++)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="266" y="1750" width="170" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="tkhK0zvHvj8kYuO251bK-73" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;curved=0;" edge="1" parent="1" source="tkhK0zvHvj8kYuO251bK-74" target="tkhK0zvHvj8kYuO251bK-78">
+        <mxCell id="tkhK0zvHvj8kYuO251bK-73" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;curved=0;strokeColor=light-dark(#f2931d, #ededed);strokeWidth=3;" edge="1" parent="1" source="tkhK0zvHvj8kYuO251bK-74" target="tkhK0zvHvj8kYuO251bK-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tkhK0zvHvj8kYuO251bK-74" value="&lt;b&gt;Backend&lt;/b&gt;&lt;br&gt;(C++)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -165,7 +165,7 @@
         <mxCell id="tkhK0zvHvj8kYuO251bK-76" value="&lt;b&gt;Backend&lt;/b&gt;&lt;br&gt;(C++)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="376" y="1850" width="170" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="tkhK0zvHvj8kYuO251bK-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="tkhK0zvHvj8kYuO251bK-78" target="tkhK0zvHvj8kYuO251bK-80">
+        <mxCell id="tkhK0zvHvj8kYuO251bK-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="tkhK0zvHvj8kYuO251bK-84" target="tkhK0zvHvj8kYuO251bK-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tkhK0zvHvj8kYuO251bK-78" value="&lt;b&gt;Backend&lt;/b&gt;&lt;br&gt;(C++)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
