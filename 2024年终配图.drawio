@@ -165,7 +165,7 @@
         <mxCell id="tkhK0zvHvj8kYuO251bK-76" value="&lt;b&gt;Backend&lt;/b&gt;&lt;br&gt;(C++)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="376" y="1850" width="170" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="tkhK0zvHvj8kYuO251bK-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="tkhK0zvHvj8kYuO251bK-84" target="tkhK0zvHvj8kYuO251bK-80">
+        <mxCell id="tkhK0zvHvj8kYuO251bK-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=light-dark(#02ff00, #ededed);" edge="1" parent="1" source="tkhK0zvHvj8kYuO251bK-84" target="tkhK0zvHvj8kYuO251bK-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tkhK0zvHvj8kYuO251bK-78" value="&lt;b&gt;Backend&lt;/b&gt;&lt;br&gt;(C++)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -180,7 +180,7 @@
         <mxCell id="tkhK0zvHvj8kYuO251bK-81" value="&lt;b&gt;Backend&lt;/b&gt;&lt;br&gt;(C++)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1109" y="1750" width="170" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="tkhK0zvHvj8kYuO251bK-82" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="tkhK0zvHvj8kYuO251bK-83" target="tkhK0zvHvj8kYuO251bK-80">
+        <mxCell id="tkhK0zvHvj8kYuO251bK-82" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=light-dark(#02ff00, #ededed);" edge="1" parent="1" source="tkhK0zvHvj8kYuO251bK-83" target="tkhK0zvHvj8kYuO251bK-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tkhK0zvHvj8kYuO251bK-83" value="&lt;b&gt;Backend&lt;/b&gt;&lt;br&gt;(C++)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
