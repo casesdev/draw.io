@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="lYSCccjF1Dvj0ZZ6_NC8">
-    <mxGraphModel dx="2066" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="826" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,6 +134,9 @@
         </mxCell>
         <mxCell id="u4dJC3-XnGfmM-rWfLHY-9" value="服务器n台, 自由部署服务" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="855" width="318" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u4dJC3-XnGfmM-rWfLHY-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;域名2个&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(255, 106, 0); font-size: 11px; text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;https://a.xx.cn&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(255, 106, 0); font-size: 11px; text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(255, 229, 153);&quot;&gt;https://b.xx.cn&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="254" y="585" width="176" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
